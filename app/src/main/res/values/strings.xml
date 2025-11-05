@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Sprint8Koh35</string>
+    <string name="app_name" translatable="false">Sprint8Koh35</string>
+    <string name="welcome_text">Hello World!</string>
 </resources>
